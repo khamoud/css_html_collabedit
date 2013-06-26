@@ -1,0 +1,26 @@
+.CodeMirror {
+        float: left;
+        width: 50%;
+        border: 1px solid black;
+      }
+      iframe {
+        width: 49%;
+        height: 300px;
+        border: 1px solid black;
+        border-left: 0px;
+      }
+body
+{
+    margin-left:0px;
+    margin-right:0px;
+    margin-top:0px;
+    margin-bottom:0px;
+    padding: 0px;
+        
+}      
+#wrapper
+{
+    width:1000px;
+}
+
+      
